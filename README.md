@@ -1,2 +1,2 @@
 # SPS-5706-Caption-Generator-for-Images-powered-by-Watson-Visual-Recognition
-Caption Generator for Images powered by  Watson Visual Recognition
+Image caption generator is a process that involves computer vision and natural language processing concepts to recognize the objects or context of an image and describe them in a natural language like English. Image capturing plays an important role in automatic caption generation, which refers to the process of capturing images and generating textual description from an image based on the objects and actions in the image.
